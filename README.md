@@ -1,18 +1,18 @@
 # resume
 
-Pratyush Mishra
-pratyush.eric@gmail.com
-linkedin.com/in/pmishra2 | github.com/120bits | 120bits.io 
+If you like my profile, you can open PR :)
 
-#About Me:
+Pratyush Mishra
+
+**About Me:**
 - Technical Skills: Java, C, NodeJS, Python, Go.
 - Cloud Services: AWS, Azure, GCP, Digitalocean.
 - Containers: Docker/Kubernetes.
 - Databases: PostGreSQL, Elasticsearch, Redis, MongoDB, InfluxDB, TimescaleDB.
 - Big Data: Hadoop, Spark, Kafka,  AWS Glue, AWS Redshift, S3 Data Lake.
 
-#Work Experience:
-#Software Engineer | Zions Bancorporation. | July 2021 - Present | Salt Lake City, Utah, US
+**Work Experience:
+Software Engineer | Zions Bancorporation. | July 2021 - Present | Salt Lake City, Utah, US**
 
 Responsibilities
 - Designing and implementing complex ETL pipelines and other BI solutions.
@@ -27,7 +27,7 @@ Responsibilities
 - Improved better monitoring to ETL jobs.
 - Migrated on perm data lake to AWS S3. 
 
-#Software Engineer | FatPipe Networks Inc. | September 2011 - July 2021 | Salt Lake City, Utah, US
+**Software Engineer | FatPipe Networks Inc. | September 2011 - July 2021 | Salt Lake City, Utah, US**
 
 Responsibilities
 - Worked on License management feature and deployed application on AWS. 
@@ -49,7 +49,7 @@ Responsibilities
 - Improved time-series database ingestion rate with TimescaleDB.
 Education:
 
-#California State University, Los Angeles:  September 2008 – March 2011.
+**California State University, Los Angeles:  September 2008 – March 2011.**
 M.S Computer Science
 Thesis: Predicting SSH passwords using Hidden Markov Models and Viterbi Backtracking Algorithm. 
 Machine Learning, Advanced Data Structure and Algorithms, Theory of Computation, Operating Systems Architecture, Linux/Unix Programming, C/C++,  Relational Database Design & SQL, Data Analytics, Network Security
@@ -58,7 +58,7 @@ Research Associate
 Image Processing, Fingerprint Recognition System, Support Vector Machines, K-Means Clustering.
 Thesis: Image recognition and identification using MultiModal approach. 
 
-#BUIT, Bhopal, India:  May 2002 – March 2006.
+**BUIT, Bhopal, India:  May 2002 – March 2006.**
 B.S Information Technology
 Courses: Java, C, Data Structure and Algorithms, Artificial Intelligence, Discrete Mathematics
 Thesis: Distributed Computing using Java RPC.
