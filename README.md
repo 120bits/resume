@@ -65,7 +65,7 @@ B.S Information Technology
 Courses: Java, C, Data Structure and Algorithms, Artificial Intelligence, Discrete Mathematics
 Thesis: Distributed Computing using Java RPC.
 
-**Side Projects:
+**Side Projects:**
 
 - Using Google TensorFlow for creating predictive models for network traffic patterns. 
 - Displaying /etc/deny.hosts on Map to find where the attacker traffic is originating from.
