@@ -50,6 +50,7 @@ Responsibilities
 Education:
 
 **California State University, Los Angeles:  September 2008 – March 2011.**
+
 M.S Computer Science
 Thesis: Predicting SSH passwords using Hidden Markov Models and Viterbi Backtracking Algorithm. 
 Machine Learning, Advanced Data Structure and Algorithms, Theory of Computation, Operating Systems Architecture, Linux/Unix Programming, C/C++,  Relational Database Design & SQL, Data Analytics, Network Security
@@ -59,11 +60,12 @@ Image Processing, Fingerprint Recognition System, Support Vector Machines, K-Mea
 Thesis: Image recognition and identification using MultiModal approach. 
 
 **BUIT, Bhopal, India:  May 2002 – March 2006.**
+
 B.S Information Technology
 Courses: Java, C, Data Structure and Algorithms, Artificial Intelligence, Discrete Mathematics
 Thesis: Distributed Computing using Java RPC.
 
-#Side Projects:
+**Side Projects:
 
 - Using Google TensorFlow for creating predictive models for network traffic patterns. 
 - Displaying /etc/deny.hosts on Map to find where the attacker traffic is originating from.
@@ -71,6 +73,8 @@ Thesis: Distributed Computing using Java RPC.
 - Network throughput testing and benchmarking.
 - Scaling API with Kubernetes. 
 - Moving existing legacy code to GoLang.
-Awards:
+
+**Awards:**
+
 - RedHat  “World is Open”  award for MultiModal Identification and Recognition. - 2007 
 
