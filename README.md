@@ -47,6 +47,7 @@ Responsibilities
 - Implemented Serverless architecture to achieve high availability and scalability.
 - Optimized WAN traffic using LZ4 compression.
 - Improved time-series database ingestion rate with TimescaleDB.
+
 Education:
 
 **California State University, Los Angeles:  September 2008 – March 2011.**
