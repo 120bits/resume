@@ -2,7 +2,7 @@
 
 If you like my profile, you can open PR :)
 
-Pratyush Mishra
+**Pratyush Mishra**
 
 **About Me:**
 - Technical Skills: Java, C, NodeJS, Python, Go.
@@ -11,8 +11,26 @@ Pratyush Mishra
 - Databases: PostGreSQL, Elasticsearch, Redis, MongoDB, InfluxDB, TimescaleDB.
 - Big Data: Hadoop, Spark, Kafka,  AWS Glue, AWS Redshift, S3 Data Lake.
 
-**Work Experience:
-Software Engineer | Zions Bancorporation. | July 2021 - Present | Salt Lake City, Utah, US**
+**Work Experience:**
+**Senior Software Engineer | Ancestry.com | Jan 2022 - Present | Lehi, Utah, US**
+
+Responsibilities
+- Building, designing and providing architecture for building data lake in S3.
+- Using Akka Reactive Framework to Produce and Consume messages from kafka topic and writing to the data lake.
+- PySpark and EMR.
+- AWS Redshift 
+- AWS MSK
+- Using Terraform to add resouces to S3. (IAC)
+- ECS
+- AWS Fargate
+- CI/CD Harness/Jenkins
+
+ Achievements
+- Restructring huge amount of data(2.5TB) in S3 using PySpark efficiently.
+- Reimplemented old stack in Java reactive framework(Akka) to consume messages from kafka topic to improve performance. 
+
+
+**Software Engineer | Zions Bancorporation. | July 2021 - Present | Salt Lake City, Utah, US**
 
 Responsibilities
 - Designing and implementing complex ETL pipelines and other BI solutions.
