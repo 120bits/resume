@@ -20,7 +20,7 @@ Responsibilities
 - PySpark and EMR.
 - AWS Redshift 
 - AWS MSK
-- Using Terraform to add resouces to S3. (IAC)
+- Using Terraform to add resouces to AWS. (IAC)
 - ECS
 - AWS Fargate
 - CI/CD Harness/Jenkins
