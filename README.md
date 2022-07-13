@@ -5,7 +5,7 @@ If you like my profile, you can open PR :)
 **Pratyush Mishra**
 
 **About Me:**
-- Technical Skills: Java, C, NodeJS, Python, Go.
+- Technical Skills: Java, Python, C, NodeJS, Go.
 - Cloud Services: AWS, Azure, GCP, Digitalocean.
 - Containers: Docker/Kubernetes.
 - Databases: PostGreSQL, Elasticsearch, Redis, MongoDB, InfluxDB, TimescaleDB.
